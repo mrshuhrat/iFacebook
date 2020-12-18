@@ -1,0 +1,16 @@
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 30px;
+	font-family: 'Roboto', 'Arial', sans-serif;
+	text-align: center;
+}
+header.dark {
+	background: #4267B2;
+	color: #fff;
+}
+header.light {
+	background: #fff;
+	color: #4267B2;
+}
