@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.7c4b2426.chunk.css",
-    "main.js": "/react-deploy/static/js/main.0ace062b.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.0ace062b.chunk.js.map",
-    "runtime-main.js": "/react-deploy/static/js/runtime-main.89bb4b2a.js",
-    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.89bb4b2a.js.map",
-    "static/js/2.13168478.chunk.js": "/react-deploy/static/js/2.13168478.chunk.js",
-    "static/js/2.13168478.chunk.js.map": "/react-deploy/static/js/2.13168478.chunk.js.map",
-    "index.html": "/react-deploy/index.html",
-    "static/css/main.7c4b2426.chunk.css.map": "/react-deploy/static/css/main.7c4b2426.chunk.css.map",
-    "static/js/2.13168478.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.13168478.chunk.js.LICENSE.txt"
+    "main.css": "/iFacebook/static/css/main.7c4b2426.chunk.css",
+    "main.js": "/iFacebook/static/js/main.0ace062b.chunk.js",
+    "main.js.map": "/iFacebook/static/js/main.0ace062b.chunk.js.map",
+    "runtime-main.js": "/iFacebook/static/js/runtime-main.e43ce157.js",
+    "runtime-main.js.map": "/iFacebook/static/js/runtime-main.e43ce157.js.map",
+    "static/js/2.13168478.chunk.js": "/iFacebook/static/js/2.13168478.chunk.js",
+    "static/js/2.13168478.chunk.js.map": "/iFacebook/static/js/2.13168478.chunk.js.map",
+    "index.html": "/iFacebook/index.html",
+    "static/css/main.7c4b2426.chunk.css.map": "/iFacebook/static/css/main.7c4b2426.chunk.css.map",
+    "static/js/2.13168478.chunk.js.LICENSE.txt": "/iFacebook/static/js/2.13168478.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.89bb4b2a.js",
+    "static/js/runtime-main.e43ce157.js",
     "static/js/2.13168478.chunk.js",
     "static/css/main.7c4b2426.chunk.css",
     "static/js/main.0ace062b.chunk.js"
